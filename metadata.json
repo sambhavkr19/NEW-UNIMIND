@@ -1,0 +1,6 @@
+{
+  "name": "UniMind AI",
+  "description": "AI-powered Intelligent University Helpdesk providing secure student/admin access, interactive RAG-based search, document management, and automated ticketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
